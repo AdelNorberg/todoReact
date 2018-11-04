@@ -1,2 +1,1 @@
-# todoReact
-Вспомнить прошлое.
+Todo Application
